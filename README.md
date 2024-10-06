@@ -1,9 +1,3 @@
-# A proyecto Flet app
+# Proyecto personal hecho en flet
 
-An example of a minimal Flet app.
-
-To run the app:
-
-```
-flet run [app_directory]
-```
+Este proyecto esta destinado a unir una base de datos, deplegado en Railway, mientras que la app sera desplegado en Vercel.
